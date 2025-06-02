@@ -239,6 +239,9 @@
 
 8. **supplies.supplier_id -> suppliers.supplier_id**
    - Каждая поставка от определенного поставщика
+  
+![image](https://github.com/user-attachments/assets/cb0e4736-e20b-4050-a94b-a873a7f9fbc1)
+
 
 ---
 
